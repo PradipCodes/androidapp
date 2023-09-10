@@ -1,0 +1,5 @@
+<!-- res/color/button_selected_color.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:color="#00FF00" /> <!-- Green color when selected -->
+    <item android:color="#FFFFFF" /> <!-- Default color (white or any other color you prefer) -->
+</selector>
